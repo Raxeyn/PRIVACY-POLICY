@@ -1,1 +1,94 @@
 
+Darkwill – Privacy Policy
+Last Updated: [Add Date]
+This Privacy Policy explains how Darkwill (“the Bot”, “we”, “our”, “us”) collects, uses, and protects information when you use the Bot inside any Discord server.
+By using Darkwill, you agree to the terms described below.
+
+1. Information We Collect
+Darkwill collects only the information required for its features to function properly.
+The Bot may collect the following types of data:
+
+1.1. Message Content (Optional & Limited)
+Message content is only accessed for features that rely on it, such as:
+Auto-Responder
+Auto-Moderation (anti-link, anti-spam, etc.)
+Logging deleted/edited messages
+Keyword-based triggers
+Message content is NOT stored permanently and is only processed in real time.
+
+1.2. Discord User Data
+User ID
+Username & discriminator
+Roles
+Server permissions
+This data is used only for identifying users for moderation, logging, and automation features.
+
+1.3. Server Data
+Server ID
+Channel IDs
+Role IDs
+Server settings & configurations
+Ticket system logs (if enabled)
+This data is stored only to maintain your server's bot configuration.
+
+2. How We Use Your Data
+Darkwill uses collected data only for the following purposes:
+Provide security & Anti-Nuke protection
+Manage moderation commands
+Process auto-moderation events
+Operate logging systems
+Manage Ticket, Welcomer, and Utility features
+Save server configurations
+Improve bot performance and stability
+We do not use your data for advertising, analytics, profiling, or AI training.
+
+3. Data Storage & Retention
+Darkwill stores only necessary configuration data (server settings, automod settings, ticket system settings, etc.).
+Message content is not stored and is removed immediately after processing.
+Logs (delete/edit messages, joins, bans, etc.) may be temporarily cached depending on server settings.
+You can request deletion of your server data at any time.
+
+4. Data Sharing
+
+We do not share, sell, or trade any collected data to third parties.
+Data is only processed internally for bot functionality.
+We may share limited data only if:
+Required by Discord’s security requirements
+Required by law (rare cases)
+
+5. User Rights
+Users and server admins have the right to:
+Request deletion of their data
+Request the bot to leave a server
+Disable features that use message content
+Opt-out of auto-moderation tracking
+You may request data removal by contacting the bot owner or support server.
+
+6. Opt-Out Policy
+
+Users can opt out of message-based processing by:
+Disabling Auto-Responder
+Turning off specific logging modules
+Turning off Auto-Moderation features
+Removing the bot from the server (full opt-out)
+
+7. Security Measures
+
+We take reasonable measures to protect your data:
+Secure database storage
+Limited access to configuration data
+No unnecessary logging of personal information
+No long-term storage of message content
+
+8. Children’s Privacy
+Darkwill does not knowingly collect information from users under 13 years old, in accordance with Discord’s Terms of Service.
+
+9. Changes to This Privacy Policy
+We may update this Privacy Policy if new features require changes.
+Any major updates will be announced in the support server.
+
+10. Contact Information
+If you have any questions or want to request data removal, you can contact us through:
+
+Owner: raxeyn
+Support Server: https://discord.gg/tx38Jxvg9Y
